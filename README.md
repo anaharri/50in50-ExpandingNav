@@ -2,7 +2,7 @@
 Here is the third project of my 50in50 series, based on a Udemy course by Brad Traversy.   
   
   
-### The task is to create simple, beautiful interfaces and widgets using only* HTML, CSS & JS.
+### The task is to build simple, aesthetic interfaces and widgets using only* HTML, CSS & JS.
 
 
 *For some of these, I just follow the tutorial exactly as it is, focused on sharpening those core concepts;  
